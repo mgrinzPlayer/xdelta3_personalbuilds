@@ -1,0 +1,2 @@
+jmacd/xdelta-devel commit hash
+53c2be245f503bc5e41b822ac2364f67a346d087
